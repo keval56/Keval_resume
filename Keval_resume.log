@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  15 APR 2019 20:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  15 APR 2019 21:09
 entering extended mode
 **./Keval_resume.tex
 (Keval_resume.tex
@@ -471,6 +471,13 @@ Overfull \hbox (52.48622pt too wide) in paragraph at lines 81--96
  [] 
  []
 
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 106.
+
+("C:\Users\keval\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 106.
 
 Overfull \vbox (18.06749pt too high) has occurred while \output is active []
 
@@ -478,23 +485,29 @@ Overfull \vbox (18.06749pt too high) has occurred while \output is active []
 [1
 
 {C:/Users/keval/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./PHOTO.jpg
->] (Keval_resume.aux) ) 
+>]
+Overfull \vbox (18.06749pt too high) has occurred while \output is active []
+
+
+[2] (Keval_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 13022 strings out of 492945
- 238556 string characters out of 3126252
- 407761 words of memory out of 3000000
- 16863 multiletter control sequences out of 15000+200000
+ 13039 strings out of 492945
+ 238889 string characters out of 3126252
+ 410761 words of memory out of 3000000
+ 16877 multiletter control sequences out of 15000+200000
  536954 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,10n,63p,800b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/keval/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/keval/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/keval/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/keval/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on Keval_resume.pdf (1 page, 95867 bytes).
+<C:/Users/keval/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/keval/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/keval/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/keval/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C
+:/Users/keval/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb>
+Output written on Keval_resume.pdf (2 pages, 117111 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 30 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
